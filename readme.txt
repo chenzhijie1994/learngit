@@ -3,5 +3,5 @@ Git is free software distributed under the GPL
 Git has a mutable index called stage.
 我就是陈志杰！！
 鹅鹅鹅饿鹅鹅鹅饿鹅鹅鹅饿鹅鹅鹅饿
-啊啊啊啊
+software distribut
 
